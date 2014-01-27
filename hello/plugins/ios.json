@@ -1,0 +1,1 @@
+{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{"config.xml":{"/*":{"<feature name=\"Echo\"><param name=\"ios-package\" value=\"Echo\" /></feature>":1}}},"installed_plugins":{"com.thegreatmichael.echo":{"PACKAGE_NAME":"com.example.hello"}},"dependent_plugins":{}}
